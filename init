@@ -1,0 +1,2 @@
+bundle exec haml main.haml main.html
+open main.html
